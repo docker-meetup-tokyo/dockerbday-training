@@ -32,7 +32,7 @@ At the training, you will need to bring your own computer. Before you go to a bi
 
 3. Softwares:
 
-- For Linux users, we need you to install [Docker engine] (https://docs.docker.com/engine/installation/)
+- For Linux users, we need you to install [Docker engine] (https://docs.docker.com/engine/installation/) & [Docker Compose](https://docs.docker.com/compose/install)
 - For PC and Mac users we need you to install [Docker toolbox for Mac and Windows](https://www.docker.com/products/docker-toolbox) and use [Docker Machine] (https://docs.docker.com/machine/get-started/) to create a virtual machine to run your Docker containers. Once your machine is created and you have connected your shell to this new machine, you're ready to run Docker commands on this host.  If you're using Linux you can skip to the next step.
 - If you're new to Docker, pre-pull the docker images for the very basic tutorial
 
