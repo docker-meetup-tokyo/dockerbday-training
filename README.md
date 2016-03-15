@@ -9,4 +9,5 @@
 #### Important Documents:
 
 
-[Training-prerequisite](https://github.com/docker-meetup-tokyo/dockerbday-training/blob/master/Training-prerequisite.md)
+- [Training-prerequisite](https://github.com/docker-meetup-tokyo/dockerbday-training/blob/master/Training-prerequisite.md)
+- [Birthday Event](http://www.meetup.com/Docker-Tokyo/events/228513358/)
